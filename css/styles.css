@@ -66,3 +66,17 @@ main{
     color: #666600;
     font-weight: bold;
 }
+/* Style rules for main p*/
+
+main p{
+    font-size:1.25em;
+}
+
+main h3{
+    padding: 2%;
+    font-size: 2em;
+}
+
+#id selector{
+    
+}
